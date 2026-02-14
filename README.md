@@ -1,0 +1,7 @@
+Sistema completo (Full Stack) com ferramentas de front-end e back-end para dar suporte às funcionalidades da proposta de um HUB de compartilhamento (doação ou troca) de livros físicos usados.
+A Plataforma www.sopraler.com.br, desenvolvida sob a forma de aplicação responsiva PWA (Progressive Web Application), tem como finalidade apoiar uma iniciativa que permite potencializar e estimular acesso à leitura de forma democrática com a utilização de soluções e ferramentas simples de Tecnologia da Informação para aproximar pessoas.
+A SopraLer é uma iniciativa que nasceu do desejo de democratizar o acesso à leitura e ao conhecimento.
+A iniciativa acredita que cada livro tem o poder de transformar vidas e abrir portas para novos horizontes.
+A plataforma conecta pessoas que desejam doar ou trocar livros físicos usados com aquelas que buscam acesso à literatura, criando uma rede solidária de compartilhamento de conhecimento. Cada doação ou troca é um gesto de generosidade que contribui para a construção de uma sociedade mais justa, educada e culturalmente rica. Mais do que uma plataforma de doação e troca, a SopraLer é um movimento de transformação social por meio da leitura.
+A iniciativa SopraLer convida as pessoas a se unirem nessa jornada de compartilhar conhecimento e transformar vidas!
+Por favor, fiquem à vontade para usar os serviços da plataforma e aproveitem seus benefícios da melhor maneira possível.
